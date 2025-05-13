@@ -10,7 +10,9 @@
 ---
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://linkedin.com" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
+   <a href="https://www.linkedin.com/in/ekramchy/" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
 </p>
 
 <h3>Languages and Tools:</h3>
