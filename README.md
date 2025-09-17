@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Ekramul Huda Chowdhury
 
-### A passionate cse student from Bangladesh
+### A passionate cse graduate from Bangladesh
 
 ![Profile views](https://komarev.com/ghpvc/?username=ekramchy&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning CS Languages
 - 📫 To reach me: [ikramchy99@gmail.com](mailto:ikramchy99@gmail.com)
-- 🎓 Studying Computer Science & Engineering at Ahsanullah University of Science & Technology, Dhaka
+- 🎓 Studied Computer Science & Engineering at Ahsanullah University of Science & Technology, Dhaka
 ---
 <h3>Connect with me:</h3>
 <p>
